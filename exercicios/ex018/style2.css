@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'brx';
+    src: url(October\ Crow.ttf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'brx', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+}
